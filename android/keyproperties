@@ -1,0 +1,4 @@
+storePassword=Tomate123##
+keyPassword=Tomate123##
+keyAlias=key
+storeFile="C:\Users\Ruben Camargo\key.jks"

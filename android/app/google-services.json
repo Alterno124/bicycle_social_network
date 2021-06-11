@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191008729555",
+    "project_id": "ceku-app-9b335",
+    "storage_bucket": "ceku-app-9b335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191008729555:android:8bedbb2efa25a7d633a726",
+        "android_client_info": {
+          "package_name": "com.example.bicycle_social_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191008729555-3qijta1n7eb51ujjjrb4raashproc3ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bicycle_social_network",
+            "certificate_hash": "7bf02c7673673b1d7b85e599eee81d4c80dc4ce9"
+          }
+        },
+        {
+          "client_id": "191008729555-trsto1edf7qu6m7bb7ipb421muic2a2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMSdL9bkkETKRkwm-kcE6FxqJydiS_1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191008729555-trsto1edf7qu6m7bb7ipb421muic2a2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
